@@ -1,4 +1,4 @@
-# smartfolders
+# ubuntu-dock-folders
 generate dock folders/groups in ubuntu
 
 <img width="546" height="113" alt="image" src="https://github.com/user-attachments/assets/eb279828-6123-4194-b82a-52c9f438988d" />
