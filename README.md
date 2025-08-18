@@ -3,6 +3,9 @@ generate dock folders in ubuntu
 
 <img width="162" height="82" alt="image" src="https://github.com/user-attachments/assets/54263f53-bdb8-4a17-a188-1af55aca3b9a" />
 
+
+
+
 <img width="611" height="345" alt="image" src="https://github.com/user-attachments/assets/ed15cd32-2bca-433a-9f13-027338c7faf7" />
 
 for usage with pcmanfm (not suitable if you're using pcmanfm as your default file explorer/adjust the code for another application)
