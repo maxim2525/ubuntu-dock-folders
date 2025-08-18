@@ -24,7 +24,7 @@ if you want to hide the menu bar like in the screenshot you'll need to rebuild p
 
 ## how to use:<br />
 
-1. download script
+1. download script and place it in a folder
 2. find the full paths of the .desktop files of your applications they are usually in `~/.local/share/applications ` `/usr/share/applications` or `/var/lib/snapd/desktop/applications/` <br /><br />you can also use `gsettings get org.gnome.shell favorite-apps` to show the .desktop filenames in your dock and then run `./find_desktop_file.sh filename.desktop` to find the full path
 3. `./smartfolder.sh <full-path-of-desktop-file1> <full-path-of-desktop-file2> <full-path-of-desktop-file3>` etc
 4. new .desktop file of the group will be generated and put into activities. type one of the added application names into the search and you will find the foldergroup
