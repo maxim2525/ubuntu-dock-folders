@@ -1,10 +1,9 @@
 # smartfolders
 generate dock folders in ubuntu
 
-<img width="162" height="82" alt="image" src="https://github.com/user-attachments/assets/54263f53-bdb8-4a17-a188-1af55aca3b9a" />
+<img width="546" height="113" alt="image" src="https://github.com/user-attachments/assets/eb279828-6123-4194-b82a-52c9f438988d" />
 
-
-
+<br />
 
 <img width="611" height="345" alt="image" src="https://github.com/user-attachments/assets/ed15cd32-2bca-433a-9f13-027338c7faf7" />
 
