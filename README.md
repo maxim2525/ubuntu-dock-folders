@@ -19,7 +19,7 @@ sudo apt-get install pcmanfm
 ```
 
 open pcmanfm and hide every control element (like statusbar etc.) <br /><br />
-if you want to hide the menu bar like in the screenshot you'll need to rebuild pcmanfm yourself with a .patch file <br />(https://gist.github.com/M4he/3a8171a7f39d9ba9a0cf6bb387b08061#file-pcmanfm_hide_menubar-patch)<br />
+if you want to hide the menu bar like in the screenshot you'll need to rebuild pcmanfm yourself with this .patch file: <br />https://gist.github.com/M4he/3a8171a7f39d9ba9a0cf6bb387b08061#file-pcmanfm_hide_menubar-patch<br />
 
 
 ## how to use<br />
