@@ -29,3 +29,5 @@ if you want to hide the menu bar like in the screenshot you'll need to rebuild p
 3. `./smartfolder.sh <full-path-of-desktop-file1> <full-path-of-desktop-file2> <full-path-of-desktop-file3>` etc
 4. new .desktop file of the group will be generated and put into activities. type one of the added application names into the search and you will find the foldergroup
 5. right click and add to dock
+
+it is also recommended to set new windows to open in center of the screen (gnome-tweaks)
